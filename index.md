@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Renewable Energy CLI Project Blog
 
-You can use the [editor on GitHub](https://github.com/LGmedia954/Blog-Renewable-Energy-CLI-Project-Sept-2020/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+My CLI project began with researching my fellow Flatiron School student blogs at Learn.co/magazine. I wanted to learn of students' experiences, how they approached their projects and the challenges they faced. Reading through dozens of projects served as a source of inspiration, and helped me to focus my thoughts and find a unique topic to address.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+As an exotic pet owner, did I want to work on a pet-oriented web scraper? Or something truer to my activism? Google searches for exotic pet organizations revealed a plethora of websites with inconsistencies in listings and advice. Being picky, I decided to table the exotic pets idea until I can find a solid reputable organization.
 
-### Markdown
+Another idea was something about renewable energy, such as solar or wind power. I spent a day in online search. Most results on U.S. sites would be roughly 150 links. I also wanted something more global, with recovery to island nations in mind. That's when I found an organization that navigates and provides aid for all types of renewable energy.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I ended up scraping a total of seven web pages for my CLI project. I feel comfortable with web scraping from my experience working with HTML and CSS. What I underestimated was matching seven different menu selections with the return of the correct web scraped content. I was looking for alternatives to using a case statement. As I write this blog, I am still working on the code for this. Another challenge was initial set up while familiarizing myself with Visual Studio Code.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LGmedia954/Blog-Renewable-Energy-CLI-Project-Sept-2020/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Goal: Using pry more often.

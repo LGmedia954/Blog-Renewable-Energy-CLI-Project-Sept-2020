@@ -6,6 +6,6 @@ As an exotic pet owner, did I want to work on a pet-oriented web scraper? Or som
 
 Another idea was something about renewable energy, such as solar or wind power. I spent a day in online search. Most results on U.S. sites would be roughly 150 links. I also wanted something more global, with recovery to island nations in mind. That's when I found an organization that navigates and provides aid for all types of renewable energy.
 
-I ended up scraping a total of seven web pages for my CLI project. I feel comfortable with web scraping from my experience working with HTML and CSS. What I underestimated was matching seven different menu selections with the return of the correct web scraped content. I was looking for alternatives to using a case statement. As I write this blog, I am still working on the code for this. Another challenge was initial set up while familiarizing myself with Visual Studio Code. Happy to report that after some research, I corrected and resolved my final updates being rejected when pushing to GitHub.
+I ended up scraping a total of seven web pages for my CLI project. I feel comfortable with web scraping from my experience working with HTML and CSS. What I underestimated was matching seven different menu selections with the return of the correct web scraped content. I was looking for alternatives to using a case statement. As I write this blog, I am still working on the code for this. Another challenge was initial set up while familiarizing myself with Visual Studio Code. Happy to report that after some research, I corrected the issue of final updates being rejected when pushing to GitHub.
 
-Goal: Using pry more often.
+Goal: Using pry with more success.
